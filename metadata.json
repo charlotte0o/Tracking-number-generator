@@ -1,0 +1,6 @@
+{
+  "name": "Mock Tracker Gen",
+  "description": "Generates test-only shipping tracking numbers for UI demos and QA testing. Contains NO real logistics data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
